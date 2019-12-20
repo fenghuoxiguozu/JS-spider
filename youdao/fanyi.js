@@ -1,11 +1,4 @@
-// const jsdom = require("jsdom");
-// const { JSDOM } = jsdom;
-// const dom = new JSDOM(`<!DOCTYPE html><p>Hello world</p>`);
-// window = dom.window;
-// document = window.document;
-// XMLHttpRequest = window.XMLHttpRequest;
-//
-//
+
 var md5 = require('md5-node');
 
 r = "" + (new Date).getTime()
